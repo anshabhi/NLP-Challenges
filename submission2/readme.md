@@ -27,3 +27,7 @@ The step by step implementation is:
 
 * We finally print the keyword with maximum correlation as our final answer.
 
+
+Further Improvements possible:
+
+We only used 1-gram for this prediction model. The model can be easily ported 2grams and more, which might result in better accuracy.
