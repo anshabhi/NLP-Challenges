@@ -6,6 +6,7 @@ Submission #1
 
 ![submission-part-1](hackrrank-1.PNG)
 ![submission-part-2](hackrrank-2.PNG)
+![submission-part-3](hackrrank-3.PNG)
 
 
 This program checks if the input search string provided by the user contains any of the keys as substring.
