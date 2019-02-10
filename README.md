@@ -5,7 +5,7 @@ My Name : Abhinav Agarwal
 
 Mobile Number : +91-9582902106
 
-The problem statements can be found in Stage_1(NLP).pdf and Stage_2(NLP).pdf files.
+The problem statements can be found in Stage_1(NLP).pdf, Stage_2(NLP).pdf & Stage_3(NLP).pdf files.
 
 The folder task1 contains submission for question #1 in submission1 where as folder submission2 contains the submission for question #2, of task1.
 
