@@ -1,5 +1,3 @@
-# mesh-education-internshala
-My submission for Mesh Education Internship
 
 My Name : Abhinav Agarwal
 
