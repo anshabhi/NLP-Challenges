@@ -1,15 +1,23 @@
+This repository contains some of my solutions to Natural Language Processing (NLP) problems on Hackerrank.
 
-My Name : Abhinav Agarwal
+The various problems implement the following algorithms:
 
-Mobile Number : +91-9582902106
+### [Task 1](task1)
+#### [Problem 1](task1/submission1)
+Find if the provided string is a *substring* of a larger string
 
-The problem statements can be found in Stage_1(NLP).pdf, Stage_2(NLP).pdf & Stage_3(NLP).pdf files.
+#### [Problem 2](task2/submission2)
+Use methods such as **Term Document Matrix (TDM)** to find the best replacement for ------ in a corpus of text.
 
-The folder task1 contains submission for question #1 in submission1 where as folder submission2 contains the submission for question #2, of task1.
+### [Task 2](task2)
+#### [Problem 2](task2/question1)
+Use **TF-IDF matrix** to find best possible match for book names and book descriptions.
 
-Each of the folder contain a description of methodology involved, and two .R files.
+#### [Problem 2](task2/question2)
+Use **n-grams** to identify the gender of characters in a corpus of text.
 
-The file with -hackerrank in its name has been configured to take input from `stdin` , as required by hackerrank and the other file can be run on PCs, which
-takes input from console.
+### [Task 3](task3)
+Use **Transfer Learning** to add tags to questions on Stack Exchange
 
-The folder task2 contains submissions for question #1 and #2 in similar named folders. The submissions are in form of .ipynb notebooks, and contain the relevant documentation.
+
+

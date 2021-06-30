@@ -1,8 +1,11 @@
-This folder contains my submission for task 3. The python notebook is available at solution.ipynb 
+## Problem Statement 1
 
-While, the results are in predicted.csv 
+Add tags to questions asked on Stack Overflow by employing transfer learning.
 
-The primary approach that we use is to make a TF-IDF document between the title and content of test dataset, and determine which words could possibly be the tags for the question.
+### Solution Approach
 
+Clean the input files and use TF-IDF to generate the tags for the questions.
 
-I didn't use any research paper for this task, however I got great help from general web browsing.
+Improvement Possible: Use Transfer Learning from actual text labelling models to add tags to questions.
+
+The detailed solution is available [here](solution.ipynb)

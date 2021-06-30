@@ -1,11 +1,7 @@
 # To be or what to be, that is the question
 Submission #2
 
-[Hackerrank Submission](https://www.hackerrank.com/challenges/to-be-what/submissions/code/96280726)
 
-![submission-part-1](hackerrank-1.PNG)
-![submission-part-2](hackerrank-2.PNG)
-![submission-part-3](hackerrank-3.PNG)
 
 This program implements core Data Science techniques to find the most probable replacement for ---- in the input string.
 
@@ -35,3 +31,9 @@ The step by step implementation is:
 Further Improvements possible:
 
 We only used 1-gram for this prediction model. The model can be easily ported 2grams and more, which might result in better accuracy.
+
+[Hackerrank Submission](https://www.hackerrank.com/challenges/to-be-what/submissions/code/96280726)
+
+![submission-part-1](hackerrank-1.PNG)
+![submission-part-2](hackerrank-2.PNG)
+![submission-part-3](hackerrank-3.PNG)

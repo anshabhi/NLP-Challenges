@@ -1,15 +1,9 @@
 # Guess the Flipkart Query
-Submission #1
-
-
-[Hackerrank Submission](https://www.hackerrank.com/challenges/guess-the-flipkart-query/submissions/code/96255651)
-
-![submission-part-1](hackrrank-1.PNG)
-![submission-part-2](hackrrank-2.PNG)
-![submission-part-3](hackrrank-3.PNG)
 
 
 This program checks if the input search string provided by the user contains any of the keys as substring.
+
+## Solution Approach
 
 The step by step implementation is:
 
@@ -20,3 +14,9 @@ The step by step implementation is:
 * Now, it is checked if the input string contains any of the substring of keys. 10 points are awarded for every such occurence.
 
 * The value with maximum score as a result of above operations is given out as the output.
+
+[Hackerrank Submission](https://www.hackerrank.com/challenges/guess-the-flipkart-query/submissions/code/96255651)
+
+![submission-part-1](hackrrank-1.PNG)
+![submission-part-2](hackrrank-2.PNG)
+![submission-part-3](hackrrank-3.PNG)
